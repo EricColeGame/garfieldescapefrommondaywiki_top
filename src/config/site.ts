@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Garfield: Escape from Monday Wiki",
+  shortName: "Garfield Monday",
+  logoText: "G",
+  tagline: "Walkthroughs, Costumes, Collectibles & Level Guides",
+  description: "A complete Garfield: Escape from Monday wiki featuring walkthroughs, costumes, collectibles, levels, bosses, gameplay guides, and tips to help players escape Garfield's vegetable-filled nightmare.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://garfieldescapefrommondaywiki.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://garfieldescapefrommondaywiki.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/3932790/Garfield__Escape_from_Monday/",
+  heroVideoId: "_MYHYS5mbg8", // Garfield: Escape from Monday - Official 8-Minute Gameplay (IGN)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/watch?v=fvDvjLSoerY",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
