@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "Garfield: Escape from Monday Wiki",
+    "shortName": "Garfield Monday",
+    "tagline": "Soluctions, costumes, objets à collectionner et guides de niveaux",
+    "description": "Un wiki complet de Garfield : Escape from Monday avec soluctions, costumes, objets à collectionner, niveaux, boss, guides de gameplay et astuces pour aider les joueurs à échapper au cauchemar végétal de Garfield.",
+    "legalNotice": "Wiki de fans non officiel. Fait par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guide",
+    "release": "Sortie",
+    "reviews": "Avis",
+    "mechanics": "Mécaniques",
+    "platforms": "Plateformes",
+    "media": "Médias",
+    "details": "Détails"
+  },
+  "guide": {
+    "overviewTitle": "Guides et soluctions de Garfield : Escape from Monday",
+    "overviewDescription": "Des guides pas à pas de Garfield : Escape from Monday couvrant la soluce du débutant, la complétion à 100 %, les succès, les fins et chaque affrontement de boss."
+  },
+  "release": {
+    "overviewTitle": "Sortie et disponibilité de Garfield : Escape from Monday",
+    "overviewDescription": "Tout sur la date de sortie de Garfield : Escape from Monday, la disponibilité sur Steam et PC, la version Nintendo Switch et où acheter le jeu."
+  },
+  "reviews": {
+    "overviewTitle": "Avis sur Garfield : Escape from Monday",
+    "overviewDescription": "Avis, notes de la critique et impressions des joueurs sur Garfield : Escape from Monday pour vous aider à décider si le jeu vaut le coup."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques de jeu de Garfield : Escape from Monday",
+    "overviewDescription": "Découvrez les systèmes de gameplay de Garfield : Escape from Monday, les combats de boss, les costumes et tenues, les objets à collectionner et les modes contre-la-montre."
+  },
+  "platforms": {
+    "overviewTitle": "Plateformes de Garfield : Escape from Monday",
+    "overviewDescription": "Guides de plateformes de Garfield : Escape from Monday pour PS5, PS4, Xbox, Xbox Series X, Switch 2 et les options de copie physique."
+  },
+  "media": {
+    "overviewTitle": "Médias de Garfield : Escape from Monday",
+    "overviewDescription": "Regardez la bande-annonce, les vidéos de gameplay, les cinématiques et les temps forts de la bande-son de Garfield : Escape from Monday au même endroit."
+  },
+  "details": {
+    "overviewTitle": "Détails du jeu Garfield : Escape from Monday",
+    "overviewDescription": "Développeur, casting, doubleurs, prix et coulisses de Garfield : Escape from Monday."
+  },
+  "home": {
+    "meta": {
+      "title": "Garfield Escape from Monday Wiki - Guides, niveaux et astuces",
+      "description": "Explorez Garfield Escape from Monday Wiki avec des soluctions, des guides de costumes, l'emplacement des objets à collectionner, des stratégies de boss, des astuces de niveaux et des informations de gameplay pour chaque plateforme."
+    },
+    "hero": {
+      "eyebrow": "Jeu d'aventure et de plateformes en 3D",
+      "title": "Garfield: Escape from Monday Wiki",
+      "description": "Un wiki complet de Garfield : Escape from Monday avec soluctions, costumes, objets à collectionner, niveaux, boss, guides de gameplay et astuces pour aider les joueurs à échapper au cauchemar végétal de Garfield.",
+      "stats": [
+        "1 personnage jouable",
+        "Plus de 40 niveaux disponibles",
+        "0 code actif",
+        "Mises à jour hebdomadaires"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Niveaux et objets à collectionner",
+      "tertiaryCta": "Costumes et capacités",
+      "videoLabel": "Gameplay officiel"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Voir tout"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre aventure dans Garfield Escape from Monday",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez les commandes, le timing des sauts, la récupération du dash et les priorités de la première heure qui vous font traverser les premiers mondes sans gaspiller de vies."
+        },
+        {
+          "number": "2",
+          "title": "Costumes et capacités",
+          "description": "Alternez entre les costumes dinde, surfeur et cow-boy de Garfield et découvrez quand chaque forme résout une section de plateformes."
+        },
+        {
+          "number": "3",
+          "title": "Objets à collectionner et lasagnes",
+          "description": "Suivez les jetons de lasagne, les cartes de cases de bande dessinée, les horloges du lundi et les charmes cachés sur les routes les plus rapides vers la complétion totale."
+        },
+        {
+          "number": "4",
+          "title": "Combats de boss",
+          "description": "Lisez les annonces d'attaque, respectez l'arène et utilisez la liste de préparation et la boucle d'entraînement qui aplatissent chaque affrontement de boss."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances actuelles",
+      "quickLinks": [
+        "Guide du débutant",
+        "Costumes et tenues",
+        "Objets à collectionner",
+        "Tous les boss"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Commandes, déplacements, timing des sauts et priorités de la première heure dont chaque nouveau joueur a besoin.",
+          "href": "/guide/garfield-escape-from-monday-beginner-guide"
+        },
+        {
+          "badge": "Soluce",
+          "title": "Soluce complète",
+          "description": "Une partie complète à travers les mondes cauchemardesques de Garfield, étape par étape.",
+          "href": "/guide/garfield-escape-from-monday-walkthrough"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Costumes et tenues",
+          "description": "Les formes dinde, surfeur et cow-boy, comment les débloquer et quand utiliser chacune.",
+          "href": "/mechanics/garfield-escape-from-monday-outfits"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Guide des objets à collectionner",
+          "description": "Jetons de lasagne, cases de bande dessinée, horloges du lundi et charmes pour une complétion à 100 %.",
+          "href": "/mechanics/garfield-escape-from-monday-collectibles"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Tous les boss",
+          "description": "Liste de préparation, archétypes de boss et boucle d'entraînement qui réduit les échecs.",
+          "href": "/guide/garfield-escape-from-monday-all-bosses"
+        },
+        {
+          "badge": "Guide",
+          "title": "Succès",
+          "description": "Chaque trophée et jalon, avec la route la plus rapide vers la complétion totale.",
+          "href": "/guide/garfield-escape-from-monday-achievements"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Casting et personnages",
+          "description": "Garfield, Odie, Jon, Nermal, Arlène et Liz et leurs rôles dans l'aventure.",
+          "href": "/details/garfield-escape-from-monday-cast"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Date de sortie",
+          "description": "Ce qui est confirmé sur la sortie de Garfield Escape from Monday et comment la suivre.",
+          "href": "/release/garfield-escape-from-monday-release-date"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Plateformes",
+          "description": "Chaque plateforme sur laquelle le jeu tourne, du PC et des consoles au jeu portable.",
+          "href": "/release/garfield-escape-from-monday-platforms"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Garfield : Escape from Monday ?",
+      "paragraphs": [
+        "Garfield : Escape from Monday est une aventure de plateformes en 3D développée par OSome Studio et publiée par Microids. Garfield est piégé dans le pire jour de la semaine, et la seule issue est de sauter, foncer et résoudre des énigmes dans une version cauchemardesque du lundi avant que l'horloge ne se réinitialise.",
+        "À travers plus de 40 niveaux, Garfield alterne entre des costumes spéciaux comme les formes dinde, surfeur et cow-boy, chacun avec des capacités uniques pour les sections de plateformes. Collectionnez des jetons de lasagne, des cartes de cases de bande dessinée, des horloges du lundi et des charmes cachés pour des récompenses de personnalisation de pièce, puis cherchez des routes plus rapides en Contre-la-montre."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "OSome Studio"
+        },
+        {
+          "label": "Éditeur",
+          "value": "Microids"
+        },
+        {
+          "label": "Plateforme",
+          "value": "PC, PS5, Xbox Series X|S, Switch"
+        },
+        {
+          "label": "Genre",
+          "value": "Aventure de plateformes en 3D"
+        },
+        {
+          "label": "Personnage jouable",
+          "value": "1"
+        },
+        {
+          "label": "Niveaux",
+          "value": "40+"
+        },
+        {
+          "label": "Codes actifs",
+          "value": "0"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorez le wiki de Garfield Escape from Monday",
+      "description": "Tout ce dont vous avez besoin pour échapper au lundi avec Garfield : astuces de débutant, capacités des costumes, routes de niveaux, emplacements des objets à collectionner, profils des personnages, stratégies de boss, succès et détails des plateformes.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant du wiki Garfield Escape from Monday",
+          "description": "Un guide convivial pour débutants couvrant la boucle de gameplay de base, les commandes de déplacement, les capacités des costumes, la progression des niveaux et les astuces pour les nouveaux joueurs.",
+          "href": "/guide/garfield-escape-from-monday-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lisez l'écran et repérez les rebords, les dangers et la sortie avant de bouger."
+            },
+            {
+              "label": "2",
+              "detail": "Ouvrez les paramètres et remappez les commandes si les touches par défaut vous semblent peu pratiques."
+            },
+            {
+              "label": "3",
+              "detail": "Jouez le premier monde lentement pour apprendre les niveaux au lieu de courir après le chrono."
+            },
+            {
+              "label": "4",
+              "detail": "Ramassez les lasagnes et objets sur votre route naturelle, puis mettez-les de côté."
+            },
+            {
+              "label": "5",
+              "detail": "Rejouez votre niveau le plus faible à chaque session pour développer la mémoire musculaire."
+            },
+            {
+              "label": "6",
+              "detail": "Passez au monde suivant une fois que les bases semblent automatiques."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Costumes et tenues du wiki Garfield Escape from Monday",
+          "description": "Les costumes spéciaux de Garfield, dont les formes dinde, surfeur et cow-boy, leurs capacités uniques et quand utiliser chacun pendant les sections de plateformes.",
+          "href": "/mechanics/garfield-escape-from-monday-outfits",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dinde",
+              "detail": "Le costume de dinde est l'une des formes de plateformes spéciales de Garfield avec sa propre capacité unique."
+            },
+            {
+              "label": "Surfeur",
+              "detail": "Le costume de surfeur change la façon dont Garfield se déplace dans les sections qui récompensent l'élan."
+            },
+            {
+              "label": "Cow-boy",
+              "detail": "Le costume de cow-boy donne à Garfield un autre outil de déplacement pour les défis de plateformes plus tard."
+            },
+            {
+              "label": "Déblocages",
+              "detail": "Débloquez des costumes en progressant dans le jeu et en collectant des lasagnes en chemin."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Niveaux et mondes du wiki Garfield Escape from Monday",
+          "description": "Une section de progression des niveaux montrant les mondes, étapes, objectifs et points d'exploration importants du jeu à travers plus de 40 niveaux.",
+          "href": "/guide/garfield-escape-from-monday-walkthrough",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Début de partie",
+              "detail": "Les premières étapes gardent des niveaux indulgents et des points de contrôle généreux pendant que vous apprenez la boucle."
+            },
+            {
+              "label": "Milieu de partie",
+              "detail": "Les dangers commencent à s'accumuler et les fenêtres de timing des sauts se resserrent sur les parcours plus longs."
+            },
+            {
+              "label": "Fin de partie",
+              "detail": "Les étapes finales combinent des portes chronométrées avec des détours facultatifs vers des objets à collectionner."
+            },
+            {
+              "label": "Portes de boss",
+              "detail": "Les affrontements de boss bloquent la progression entre les mondes et testent tout ce que vous avez appris."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Objets à collectionner du wiki Garfield Escape from Monday",
+          "description": "Un guide de collection axé sur les jetons de lasagne, les cartes de cases de bande dessinée, les horloges du lundi, les charmes cachés, les récompenses de personnalisation de pièce et les routes de complétion.",
+          "href": "/mechanics/garfield-escape-from-monday-collectibles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lasagne",
+              "detail": "Les jetons de lasagne sont des objets courants trouvés dans les cuisines, les diners et les garde-manger."
+            },
+            {
+              "label": "Cases",
+              "detail": "Les cartes de cases de bande dessinée tombent en récompense de fin de niveau et remplissent la galerie de strips du jeu."
+            },
+            {
+              "label": "Horloges",
+              "detail": "Les horloges du lundi apparaissent dans les segments d'évasion chronométrés et alimentent les bonus de contre-la-montre."
+            },
+            {
+              "label": "Charmes",
+              "detail": "Les charmes de personnage se cachent dans les alcôves et les chemins secondaires et comptent pour la complétion."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Personnages du wiki Garfield Escape from Monday",
+          "description": "Un aperçu des personnages couvrant Garfield, Odie, Jon, Nermal, Arlène et Liz, ainsi que leurs rôles dans l'aventure.",
+          "href": "/details/garfield-escape-from-monday-cast",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Garfield",
+              "detail": "Le chat sarcastique et obsédé par les lasagnes, personnage jouable principal."
+            },
+            {
+              "label": "Odie",
+              "detail": "Le chien joyeux et infiniment loyal qui accompagne Garfield."
+            },
+            {
+              "label": "Jon",
+              "detail": "Jon Arbuckle, le propriétaire maladroit mais bien intentionné de Garfield et pilier de l'histoire."
+            },
+            {
+              "label": "Nermal",
+              "detail": "Le chaton qui se proclame le plus mignon et le rival comique de Garfield."
+            },
+            {
+              "label": "Arlene",
+              "detail": "La petite amie à la langue acérée de Garfield, issue de la bande dessinée."
+            },
+            {
+              "label": "Liz",
+              "detail": "Liz Wilson, la vétérinaire de Jon et personnage secondaire récurrent."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guide des boss du wiki Garfield Escape from Monday",
+          "description": "Une section de guide pour les rencontres d'ennemis et les défis de boss tout au long de l'aventure cauchemardesque de Garfield, avec les schémas d'attaque et des astuces de complétion.",
+          "href": "/guide/garfield-escape-from-monday-all-bosses",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Les rencontres finales du cauchemar, avec les combats les plus longs et les fenêtres d'attaque les plus serrées."
+            },
+            {
+              "label": "A",
+              "detail": "Les boss de fin de monde qui punissent les dashs imprudents et les sauts de panique."
+            },
+            {
+              "label": "B",
+              "detail": "Les boss de milieu de partie aux annonces lisibles et aux schémas d'attaque courts."
+            },
+            {
+              "label": "C",
+              "detail": "Les premières rencontres qui enseignent l'esquive, le blocage et la conscience de l'arène."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Succès du wiki Garfield Escape from Monday",
+          "description": "Un module axé sur la complétion couvrant les succès, trophées et objectifs jalons sur toutes les plateformes pour une complétion à 100 %.",
+          "href": "/guide/garfield-escape-from-monday-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Histoire",
+              "detail": "Les succès d'histoire se débloquent en terminant les mondes principaux et en atteignant la fin."
+            },
+            {
+              "label": "Collection",
+              "detail": "Les trophées de collection suivent les jetons de lasagne, les cases de bande dessinée et les charmes cachés."
+            },
+            {
+              "label": "Vitesse",
+              "detail": "Les déblocages chronométrés récompensent la maîtrise des routes rapides dans chaque étape."
+            },
+            {
+              "label": "Compétence",
+              "detail": "Les trophées de compétence récompensent les runs propres et les routes créatives."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sortie et plateformes du wiki Garfield Escape from Monday",
+          "description": "Une section de référence couvrant la sortie, les plateformes prises en charge, les éditions et les informations d'achat officielles de Garfield : Escape from Monday.",
+          "href": "/release/garfield-escape-from-monday-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "PC Windows via Steam, avec prise en charge du clavier et de la manette."
+            },
+            {
+              "label": "PS5",
+              "detail": "Sortie sur console PlayStation 5 par l'éditeur Microids."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Sortie sur console Xbox Series X|S par l'éditeur Microids."
+            },
+            {
+              "label": "Switch",
+              "detail": "Sortie Nintendo Switch avec jeu portable et en dock."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Des réponses rapides aux questions les plus courantes sur le wiki Garfield Escape from Monday.",
+      "items": [
+        {
+          "question": "Qu'est-ce que le wiki Garfield : Escape from Monday ?",
+          "answer": "Le wiki Garfield : Escape from Monday est un hub de guides créé par des fans pour l'aventure de plateformes en 3D Garfield : Escape from Monday. Il couvre les astuces de débutant, les costumes, les niveaux, les objets à collectionner, les personnages, les boss, les succès et les détails des plateformes."
+        },
+        {
+          "question": "Qui a développé Garfield : Escape from Monday ?",
+          "answer": "Garfield : Escape from Monday a été développé par OSome Studio et publié par Microids."
+        },
+        {
+          "question": "Sur quelles plateformes Garfield : Escape from Monday est-il disponible ?",
+          "answer": "Garfield : Escape from Monday est disponible sur PC Windows via Steam, PlayStation 5, Xbox Series X|S et Nintendo Switch."
+        },
+        {
+          "question": "Garfield : Escape from Monday a-t-il des codes ?",
+          "answer": "Garfield : Escape from Monday n'a aucun code à échanger actif. Les costumes, objets à collectionner et succès se débloquent par le jeu normal à la place."
+        },
+        {
+          "question": "Combien de niveaux Garfield : Escape from Monday compte-t-il ?",
+          "answer": "Garfield : Escape from Monday propose plus de 40 niveaux répartis dans les mondes cauchemardesques de Garfield, plus des routes Contre-la-montre pour les joueurs qui veulent gagner des secondes."
+        },
+        {
+          "question": "Quels costumes trouve-t-on dans Garfield : Escape from Monday ?",
+          "answer": "Garfield : Escape from Monday comprend des costumes spéciaux comme les formes dinde, surfeur et cow-boy, chacune avec une capacité unique utilisée pendant les sections de plateformes."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à échapper au lundi avec Garfield ?",
+      "description": "De vos premiers pas dans le cauchemar de Garfield à la collecte de chaque lasagne, notre wiki communautaire vous couvre avec des guides gratuits et à jour.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour l'instant. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Garfield: Escape from Monday Wiki",
+    "about": "Le wiki Garfield : Escape from Monday est un hub de guides indépendant créé par des fans, couvrant les soluctions, costumes, objets à collectionner, niveaux, boss et connaissances essentielles du jeu pour les nouveaux comme les vétérans.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Garfield : Escape from Monday Wiki. Sans affiliation avec OSome Studio, Microids ou Paws, Inc.",
+    "description": "Jeu d'aventure et de plateformes en 3D. Aidez Garfield à échapper à son cauchemar végétal.",
+    "playGame": "Jouer à Garfield : Escape from Monday sur Steam",
+    "officialDiscord": "Discord officiel",
+    "officialYoutube": "YouTube officiel",
+    "vvBuilder": "Hub communautaire Steam",
+    "beginnerGuide": "Guide du débutant",
+    "platformGuides": "Guides de plateformes",
+    "bossGuides": "Guides des boss",
+    "outfitGuides": "Tenues et costumes",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}
