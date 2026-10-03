@@ -9,7 +9,42 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "reviews": "Reviews",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "media": "Media",
+    "details": "Details"
+  },
+  "guide": {
+    "overviewTitle": "Garfield: Escape from Monday Guides & Walkthroughs",
+    "overviewDescription": "Step-by-step Garfield: Escape from Monday guides covering the beginner walkthrough, 100% completion, achievements, endings, and every boss encounter."
+  },
+  "release": {
+    "overviewTitle": "Garfield: Escape from Monday Release & Availability",
+    "overviewDescription": "Everything about the Garfield: Escape from Monday release date, Steam and PC availability, Nintendo Switch version, and where to buy the game."
+  },
+  "reviews": {
+    "overviewTitle": "Garfield: Escape from Monday Reviews",
+    "overviewDescription": "Garfield: Escape from Monday reviews, critic scores, and player impressions to help you decide whether the game is worth it."
+  },
+  "mechanics": {
+    "overviewTitle": "Garfield: Escape from Monday Game Mechanics",
+    "overviewDescription": "Learn the Garfield: Escape from Monday gameplay systems, boss fights, costumes and outfits, collectibles, and time attack modes."
+  },
+  "platforms": {
+    "overviewTitle": "Garfield: Escape from Monday Platforms",
+    "overviewDescription": "Garfield: Escape from Monday platform guides for PS5, PS4, Xbox, Xbox Series X, Switch 2, and physical copy options."
+  },
+  "media": {
+    "overviewTitle": "Garfield: Escape from Monday Media",
+    "overviewDescription": "Watch the Garfield: Escape from Monday trailer, gameplay videos, cutscenes, and soundtrack highlights in one place."
+  },
+  "details": {
+    "overviewTitle": "Garfield: Escape from Monday Game Details",
+    "overviewDescription": "Garfield: Escape from Monday developer, cast, voice actors, price, and behind-the-scenes details."
   },
   "home": {
     "meta": {
@@ -425,7 +460,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -456,9 +490,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Steam Community Hub",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "platformGuides": "Platform Guides",
     "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "outfitGuides": "Outfits & Costumes",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
