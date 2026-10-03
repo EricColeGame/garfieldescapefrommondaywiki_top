@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Garfield: Escape from Monday Wiki",
+    "shortName": "Garfield Monday",
+    "tagline": "Walkthroughs, Costumes, Collectibles & Level Guides",
+    "description": "A complete Garfield: Escape from Monday wiki featuring walkthroughs, costumes, collectibles, levels, bosses, gameplay guides, and tips to help players escape Garfield's vegetable-filled nightmare.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Garfield Escape from Monday Wiki - Guides, Levels & Tips",
+      "description": "Explore Garfield Escape from Monday Wiki with walkthroughs, costume guides, collectible locations, boss strategies, level tips, and gameplay information for every platform."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "3D Platform Adventure Game",
+      "title": "Garfield: Escape from Monday Wiki",
+      "description": "A complete Garfield: Escape from Monday wiki featuring walkthroughs, costumes, collectibles, levels, bosses, gameplay guides, and tips to help players escape Garfield's vegetable-filled nightmare.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "1 Playable Character",
+        "40+ Levels Available",
+        "0 Active Codes",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Levels & Collectibles",
+      "tertiaryCta": "Costumes & Abilities",
+      "videoLabel": "Official Gameplay"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Escape Monday with Garfield?",
+      "description": "From your first steps in Garfield's nightmare to collecting every lasagna, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Garfield: Escape from Monday Wiki",
+    "about": "Garfield: Escape from Monday Wiki is an independent fan-built guide hub covering walkthroughs, costumes, collectibles, levels, bosses, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Garfield: Escape from Monday Wiki. Not affiliated with OSome Studio, Microids, or Paws, Inc.",
+    "description": "3D platform adventure game. Help Garfield escape his vegetable-filled nightmare.",
+    "playGame": "Play Garfield: Escape from Monday on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Steam Community Hub",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
