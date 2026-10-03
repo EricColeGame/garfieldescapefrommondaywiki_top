@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Garfield Escape from Monday Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the controls, jump timing, dash recovery, and first-hour priorities that carry you through the opening worlds without wasting lives."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Costumes & Abilities",
+          "description": "Swap between Garfield's turkey, surfer, and cowboy costumes and learn when each form solves a platforming section."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Collectibles & Lasagna",
+          "description": "Track lasagna tokens, comic panel cards, Monday clocks, and hidden charms on the fastest routes to full completion."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Boss Fights",
+          "description": "Read attack tells, respect the arena, and use the prep checklist and practice loop that flatten every boss encounter."
         }
       ]
     },
@@ -66,237 +66,323 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Costumes & Outfits",
+        "Collectibles",
+        "All Bosses"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Controls, movement, jump timing, and the first-hour priorities every new player needs.",
+          "href": "/guide/garfield-escape-from-monday-beginner-guide"
+        },
+        {
+          "badge": "Walkthrough",
+          "title": "Full Walkthrough",
+          "description": "A complete run through Garfield's nightmare worlds, stage by stage.",
+          "href": "/guide/garfield-escape-from-monday-walkthrough"
+        },
+        {
+          "badge": "Popular",
+          "title": "Costumes & Outfits",
+          "description": "Turkey, surfer, and cowboy forms, how to unlock them, and when to use each one.",
+          "href": "/mechanics/garfield-escape-from-monday-outfits"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Collectibles Guide",
+          "description": "Lasagna tokens, comic panels, Monday clocks, and charms for 100% completion.",
+          "href": "/mechanics/garfield-escape-from-monday-collectibles"
+        },
+        {
+          "badge": "Popular",
+          "title": "All Bosses",
+          "description": "Prep checklist, boss archetypes, and the practice loop that cuts failed runs.",
+          "href": "/guide/garfield-escape-from-monday-all-bosses"
+        },
+        {
+          "badge": "Guide",
+          "title": "Achievements",
+          "description": "Every trophy and milestone, with the fastest route to full completion.",
+          "href": "/guide/garfield-escape-from-monday-achievements"
+        },
+        {
+          "badge": "New",
+          "title": "Cast & Characters",
+          "description": "Garfield, Odie, Jon, Nermal, Arlene, and Liz and their roles in the adventure.",
+          "href": "/details/garfield-escape-from-monday-cast"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Release Date",
+          "description": "What is confirmed about the Garfield Escape from Monday release and how to track it.",
+          "href": "/release/garfield-escape-from-monday-release-date"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Platforms",
+          "description": "Every platform the game runs on, from PC and consoles to handheld play.",
+          "href": "/release/garfield-escape-from-monday-platforms"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What Is Garfield: Escape from Monday?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Garfield: Escape from Monday is a 3D platform adventure developed by OSome Studio and published by Microids. Garfield is trapped inside the worst day of the week, and the only way out is to hop, dash, and puzzle through a nightmare version of Monday before the clock resets.",
+        "Across 40+ levels, Garfield swaps between special costumes such as the turkey, surfer, and cowboy forms, each with unique abilities for platforming sections. Collect lasagna tokens, comic panel cards, Monday clocks, and hidden charms for room customization rewards, then chase faster routes in Time Attack."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "OSome Studio"
+        },
+        {
+          "label": "Publisher",
+          "value": "Microids"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC, PS5, Xbox Series X|S, Switch"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "3D Platform Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Playable Character",
+          "value": "1"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Levels",
+          "value": "40+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Active Codes",
+          "value": "0"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Garfield Escape from Monday Wiki",
+      "description": "Everything you need to escape Monday with Garfield: beginner tips, costume abilities, level routes, collectible locations, character profiles, boss strategies, achievements, and platform details.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Garfield Escape from Monday Wiki Beginner Guide",
+          "description": "A beginner-friendly guide covering the basic gameplay loop, movement controls, costume abilities, level progression, and first-time player tips.",
+          "href": "/guide/garfield-escape-from-monday-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Read the screen and scan for ledges, hazards, and the exit before you move."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Open Settings and remap the controls if the default bindings feel awkward."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Play the first world slowly to learn layouts instead of chasing the timer."
+            },
+            {
+              "label": "4",
+              "detail": "Grab lasagna and pickups along your natural route, then bank them."
+            },
+            {
+              "label": "5",
+              "detail": "Replay your weakest stage each session to build muscle memory."
+            },
+            {
+              "label": "6",
+              "detail": "Move on to the next world once the fundamentals feel automatic."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Garfield Escape from Monday Wiki Costumes & Outfits",
+          "description": "Garfield's special costumes, including the turkey, surfer, and cowboy forms, their unique abilities, and when to use each one during platforming sections.",
+          "href": "/mechanics/garfield-escape-from-monday-outfits",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Turkey",
+              "detail": "The turkey costume is one of Garfield's special platforming forms with its own unique ability."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Surfer",
+              "detail": "The surfer costume changes how Garfield moves through sections that reward momentum."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Cowboy",
+              "detail": "The cowboy costume gives Garfield another traversal tool for later platforming challenges."
+            },
+            {
+              "label": "Unlocks",
+              "detail": "Unlock costumes by progressing through the game and collecting lasagna along the way."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Garfield Escape from Monday Wiki Levels & Worlds",
+          "description": "A level progression section showing the game's worlds, stages, objectives, and important exploration points across 40+ levels.",
+          "href": "/guide/garfield-escape-from-monday-walkthrough",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Early Game",
+              "detail": "Opening stages keep layouts forgiving and checkpoints generous while you learn the loop."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Mid Game",
+              "detail": "Hazards start stacking and jump timing windows tighten across longer runs."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Late Game",
+              "detail": "Final stages combine timed gates with optional collectible detours."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Boss Gates",
+              "detail": "Boss encounters gate progress between worlds and test everything you have learned."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Garfield Escape from Monday Wiki Collectibles",
+          "description": "A collection guide focused on lasagna tokens, comic panel cards, Monday clocks, hidden charms, room customization rewards, and completion routes.",
+          "href": "/mechanics/garfield-escape-from-monday-collectibles",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Lasagna",
+              "detail": "Lasagna tokens are common pickups found in kitchen, diner, and pantry rooms."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Panels",
+              "detail": "Comic panel cards drop as end-of-level rewards and fill the in-game strip gallery."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Clocks",
+              "detail": "Monday clocks appear in timed escape segments and feed time-attack bonuses."
+            },
+            {
+              "label": "Charms",
+              "detail": "Character charms hide in alcoves and side paths and count toward completion."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Garfield Escape from Monday Wiki Characters",
+          "description": "A character overview covering Garfield, Odie, Jon, Nermal, Arlene, and Liz, plus the roles they play in the adventure.",
+          "href": "/details/garfield-escape-from-monday-cast",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Garfield",
+              "detail": "The sarcastic, lasagna-obsessed cat and the primary playable character."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Odie",
+              "detail": "Garfield's cheerful, endlessly loyal dog sidekick."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Jon",
+              "detail": "Jon Arbuckle, Garfield's awkward but well-meaning owner and story anchor."
+            },
+            {
+              "label": "Nermal",
+              "detail": "The self-proclaimed cutest kitten and Garfield's comedic rival."
+            },
+            {
+              "label": "Arlene",
+              "detail": "Garfield's sharp-tongued girlfriend from the comic strip."
+            },
+            {
+              "label": "Liz",
+              "detail": "Liz Wilson, Jon's veterinarian and recurring supporting character."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Garfield Escape from Monday Wiki Boss Guide",
+          "description": "A guide section for enemy encounters and boss challenges throughout Garfield's nightmare adventure, with attack patterns and completion tips.",
+          "href": "/guide/garfield-escape-from-monday-all-bosses",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Final nightmare encounters with the longest fights and the tightest attack windows."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Late-world bosses that punish careless dashes and panic jumps."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Mid-game bosses with readable tells and short attack patterns."
+            },
+            {
+              "label": "C",
+              "detail": "Early encounters that teach dodging, blocking, and arena awareness."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Garfield Escape from Monday Wiki Achievements",
+          "description": "A completion-focused module covering achievements, trophies, and milestone objectives across platforms for 100% completion.",
+          "href": "/guide/garfield-escape-from-monday-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Story achievements unlock by finishing the main worlds and reaching the ending."
+            },
+            {
+              "label": "Collect",
+              "detail": "Collection trophies track lasagna tokens, comic panels, and hidden charms."
+            },
+            {
+              "label": "Speed",
+              "detail": "Time-based unlocks reward mastering fast routes through each stage."
+            },
+            {
+              "label": "Skill",
+              "detail": "Skill-based trophies reward clean runs and creative route breaks."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Garfield Escape from Monday Wiki Release & Platforms",
+          "description": "A reference section covering the release, supported platforms, editions, and official purchase information for Garfield: Escape from Monday.",
+          "href": "/release/garfield-escape-from-monday-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Windows PC via Steam, with keyboard and gamepad support."
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation 5 console release from publisher Microids."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Xbox Series X|S console release from publisher Microids."
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo Switch release with handheld and docked play."
             }
           ]
         }
@@ -304,27 +390,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about the Garfield Escape from Monday Wiki.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Garfield: Escape from Monday Wiki?",
+          "answer": "Garfield: Escape from Monday Wiki is a fan-built guide hub for the 3D platform adventure Garfield: Escape from Monday. It covers beginner tips, costumes, levels, collectibles, characters, bosses, achievements, and platform details."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Who developed Garfield: Escape from Monday?",
+          "answer": "Garfield: Escape from Monday was developed by OSome Studio and published by Microids."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What platforms is Garfield: Escape from Monday on?",
+          "answer": "Garfield: Escape from Monday is available on Windows PC via Steam, PlayStation 5, Xbox Series X|S, and Nintendo Switch."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Garfield: Escape from Monday have codes?",
+          "answer": "Garfield: Escape from Monday has no active redeem codes. Costumes, collectibles, and achievements are unlocked through normal play instead."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How many levels does Garfield: Escape from Monday have?",
+          "answer": "Garfield: Escape from Monday offers 40+ levels spread across Garfield's nightmare worlds, plus Time Attack routes for players who want to shave seconds."
+        },
+        {
+          "question": "What costumes are in Garfield: Escape from Monday?",
+          "answer": "Garfield: Escape from Monday includes special costumes such as the turkey, surfer, and cowboy forms, each with a unique ability used during platforming sections."
         }
       ]
     },
